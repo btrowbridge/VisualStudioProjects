@@ -1,0 +1,150 @@
+New Hampshire
+Concord
+9304 1788 9
+Massachusetts
+Boston
+8257 1788 6
+Vermont
+Montpelier
+9609 1791 14
+Rhode Island
+Providence
+1214 1790 13
+Connecticut
+Hartford
+5009 1788 5
+Maine
+Augusta
+33215 1820 23
+New York
+Albany
+49576 1788 11
+Pennsylvania
+Harrisburg
+45333 1787 2
+Delaware
+Dover
+2057 1787 1
+Maryland
+Annapolis
+10577 1788 7
+Washington
+Olympia
+68192 1889 42
+Oregon
+Salem 
+96981 1859 33
+Virginia
+Richmond
+40815 1788 10
+North Carolina
+Raleigh
+52586 1789 12
+South Carolina
+Columbia
+31055 1788 8
+Georgia
+Atlanta
+58876 1788 4
+New Jersey
+Trenton
+7836 1787 3
+Hawaii
+Honolulu
+6450 1959 50
+Iowa
+Des Moines
+56290 1846 29
+Florida
+Tallahassee
+58560 1845 27
+Tennessee
+Nashville
+42244 1796 16
+Michigan
+Lansing
+58216 1837 26
+Ohio
+Columbus
+41222 1803 17
+Wyoming
+Cheyenne
+97914 1890 44
+Colorado
+Denver
+104247 1876 38
+Nebraska
+Lincoln
+77227 1867 37
+Wisconsin
+Madison
+56154 1848 30
+South Dakota
+Pierre
+77047 1889 39
+Alabama
+Montgomery
+51609 1819 22
+Mississippi
+Jackson
+47716 1817 20
+Louisiana
+Baton Rouge
+48523 1812 18
+Arkansas
+Little Rock
+53104 1836 25
+Missouri
+Jefferson City
+69686 1821 24
+Kentuckey
+Frankfort
+40395 1792 15
+Minnesota
+Saint Paul
+84068 1858 32
+North Dakota
+Bismark
+70665 1889 41
+Kansas
+Topeka
+82264 1861 34
+Oklahoma
+Oklahoma City
+69919 1907 46
+Texas
+Austin
+267338 1845 28
+New Mexico
+Santa Fe
+121666 1912 47
+Arizona
+Phoenix
+113909 1912 48
+Utah
+Sakt Lake City
+84916 1896 45
+Nevada
+Carson City
+110540 1864 36
+Idaho
+Boise
+83557 1890 43
+West Virginia
+Charleston
+24181 1863 35
+California
+Sacramento
+158706 1850 31
+Alaska
+Juneau
+586412 1959 49
+Indiana
+Indianapolis
+36291 1816 19
+Illinois
+Springfield
+56400 1818 21
+Montana
+Helena
+147138 1889 41

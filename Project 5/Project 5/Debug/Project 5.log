@@ -1,0 +1,29 @@
+﻿Build started 11/23/2015 11:07:01 PM.
+     1>Project "C:\Users\Bradley Trowbridge\Documents\Visual Studio 2015\Projects\Project 5\Project 5\Project 5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stateData.h testProg.cpp
+         testProg.cpp
+     1>c:\users\bradley trowbridge\documents\visual studio 2015\projects\project 5\project 5\hasht.h(152): warning C4553: '==': operator has no effect; did you intend '='?
+         c:\users\bradley trowbridge\documents\visual studio 2015\projects\project 5\project 5\hasht.h(135): note: while compiling class template member function 'void hashT<stateData>::search(int &,const elemType &,bool &) const'
+                 with
+                 [
+                     elemType=stateData
+                 ]
+         c:\users\bradley trowbridge\documents\visual studio 2015\projects\project 5\project 5\testprog.cpp(99): note: see reference to function template instantiation 'void hashT<stateData>::search(int &,const elemType &,bool &) const' being compiled
+                 with
+                 [
+                     elemType=stateData
+                 ]
+         c:\users\bradley trowbridge\documents\visual studio 2015\projects\project 5\project 5\testprog.cpp(65): note: see reference to class template instantiation 'hashT<stateData>' being compiled
+     1>c:\users\bradley trowbridge\documents\visual studio 2015\projects\project 5\project 5\hasht.h(155): warning C4553: '==': operator has no effect; did you intend '='?
+         stateData.h
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Bradley Trowbridge\Documents\Visual Studio 2015\Projects\Project 5\Debug\Project 5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Bradley Trowbridge\Documents\Visual Studio 2015\Projects\Project 5\Debug\Project 5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Bradley Trowbridge\Documents\Visual Studio 2015\Projects\Project 5\Debug\Project 5.lib" /MACHINE:X86 Debug\stateData.obj
+         Debug\testProg.obj
+         Project 5.vcxproj -> C:\Users\Bradley Trowbridge\Documents\Visual Studio 2015\Projects\Project 5\Debug\Project 5.exe
+     1>Done Building Project "C:\Users\Bradley Trowbridge\Documents\Visual Studio 2015\Projects\Project 5\Project 5\Project 5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.92
